@@ -18,6 +18,8 @@ public class Main {
         // TODO code application logic here
         System.out.println("Buenas noches tripulantes Mision TIC");
         System.out.println("Hola Santiago!!");
+        System.out.println("Compañeros, buenas noches");
+        System.out.println("YA FUNCIONÓ EL REPOSITORIO");
     }
     
 }
