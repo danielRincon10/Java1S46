@@ -21,7 +21,6 @@ public class Main {
         System.out.println("Compañeros, buenas noches");
         System.out.println("YA FUNCIONÓ EL REPOSITORIO");
         
-        System.out.println("ESTO ESTA EN LA RAMA TEST");
     }
     
 }
