@@ -22,6 +22,12 @@ public class Main {
         System.out.println("YA FUNCIONÓ EL REPOSITORIO");
         System.out.println("vamos en el repositorio");
         
+        int numero1 = 23; 
+        int numero2 = 38; 
+        
+        int suma = numero1 + numero2; 
+        System.out.println(suma);
+                
     }
     
 }
