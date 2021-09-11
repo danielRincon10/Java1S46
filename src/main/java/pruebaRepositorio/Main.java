@@ -27,7 +27,9 @@ public class Main {
         
         int suma = numero1 + numero2; 
         System.out.println(suma);
-                
+        int resta = numero1 - numero2;
+        System.out.println(resta);
+        
     }
     
 }
